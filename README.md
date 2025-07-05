@@ -40,7 +40,7 @@
 
 ### 👤 About Me
 
-With over 4 years of experience in frontend development, I bring a strong foundation in creating dynamic and responsive web applications. My expertise spans across HTML, CSS, JavaScript, and modern frameworks like Vue.js and React. I have a proven track record of delivering high-quality, user-centric interfaces and am proficient in utilizing tools such as Git, Webpack, and Vite to streamline development processes.
+With over 5 years of experience in frontend development, I bring a strong foundation in creating dynamic and responsive web applications. My expertise spans across HTML, CSS, JavaScript, and modern frameworks like Vue.js and React. I have a proven track record of delivering high-quality, user-centric interfaces and am proficient in utilizing tools such as Git, Webpack, and Vite to streamline development processes.
 
 In addition to frontend development, I have extensive experience in blockchain development, including smart contract development, DeFi protocols, and NFTs. I have worked on various blockchain projects, integrating with DeFi platforms and creating NFT marketplaces.
 
@@ -50,7 +50,7 @@ In addition to frontend development, I have extensive experience in blockchain d
 
 - 🧑‍💻 **Name:** Alhassan Alfarran  
 - 💼 **Job Role:** Fullstack Developer  
-- 🕓 **Experience:** 4 Years 3 Months  
+- 🕓 **Experience:** 5 Years 3 Months  
 - 📍 **Address:** Russia, Moscow  
 - 🎓 **Education:** Bachelor of Computer Science  
 - 🧠 **Domain:** Web Development, E-commerce & Digital Marketing  
