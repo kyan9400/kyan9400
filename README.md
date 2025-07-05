@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/kyan9400"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Blockchain%20Engineer;4%2B%20Years%20Experience;Always%20Learning%20New!&center=true&width=500&height=45"></a>
+  <a href="https://github.com/kyan9400"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Blockchain%20Engineer;5%2B%20Years%20Experience;Always%20Learning%20New!&center=true&width=500&height=45"></a>
 </p>
 
 <h3 align="center">
