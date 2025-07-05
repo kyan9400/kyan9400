@@ -17,7 +17,7 @@
 </h3>
 
 <p align="center">
-  <samp>🧑‍💻 Fullstack Developer from Moscow, Russia | 4+ Years Experience</samp><br/>
+  <samp>🧑‍💻 Fullstack Developer from Moscow, Russia | 5+ Years Experience</samp><br/>
   <samp>🌍 Fluent in English, Russian, and Arabic</samp>
 </p>
 
