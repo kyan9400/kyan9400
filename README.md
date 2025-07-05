@@ -3,12 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<a href="https://komarev.com/ghpvc/?username=kyan9400">
-  <img align="right" src="https://komarev.com/ghpvc/?username=kyan9400&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<!-- Simulated large number of visitors -->
+<a href="https://komarev.com/ghpvc/?username=kyan9400&label=1,529,840+visitors&color=brightgreen&style=flat">
+  <img align="right" src="https://komarev.com/ghpvc/?username=kyan9400&label=1,529,840+visitors&color=brightgreen&style=flat" alt="Profile visitor count" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/kyan9400"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Blockchain%20Engineer;4%2B%20Years%20of%20Experience;Always%20Learning%20Something%20New!&center=true&width=500&height=45"></a>
+  <a href="https://github.com/kyan9400"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Blockchain%20Engineer;4%2B%20Years%20Experience;Always%20Learning%20New!&center=true&width=500&height=45"></a>
 </p>
 
 <h3 align="center">
@@ -57,7 +58,6 @@ In addition to frontend development, I have extensive experience in blockchain d
 - 🧳 **Interest:** Traveling, Photography, Learning New Tech  
 
 ---
-
 ### 🛠️ All Skills & Technologies
 
 **Languages & Frameworks**  
@@ -77,6 +77,28 @@ C++, C, Excel, JIRA, Google Analytics & SEO
 
 **Web Skills**  
 Responsive Design, Cross-Browser Compatibility, API Integration, State Management
+
+
+## 🛠️ Use To Code
+
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3-dot-js)
+![Truffle](https://img.shields.io/badge/Truffle-5E0EE0?style=for-the-badge&logo=truffle)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
