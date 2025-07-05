@@ -7,15 +7,32 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=kyan9400&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<p align="center">
+  <a href="https://github.com/kyan9400"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;Blockchain%20Engineer;4%2B%20Years%20of%20Experience;Always%20Learning%20Something%20New!&center=true&width=500&height=45"></a>
+</p>
+
 <h3 align="center">
-  <samp>&gt; Hey There!, I am
-    <b>Alhassan Alfarran</b>
-  </samp>
+  <samp>&gt; Hey There!, I am <b>Alhassan Alfarran</b></samp>
 </h3>
 
 <p align="center">
   <samp>🧑‍💻 Fullstack Developer from Moscow, Russia | 4+ Years Experience</samp><br/>
   <samp>🌍 Fluent in English, Russian, and Arabic</samp>
+</p>
+
+<p align="center">
+ <a href="https://kyan.tech" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
+ </a>
+ <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+ <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="mailto:your.email@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+ </a>
 </p>
 
 ---
