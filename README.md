@@ -19,7 +19,7 @@ I work mainly with React, TypeScript, Node.js, Python, Go, PostgreSQL, and Redis
 - **[SchemaSentry](https://github.com/kyan9400/schema-sentry)** — A dependency-free SQL migration safety analyzer with PostgreSQL-aware rules, changed-migration pull-request scans, SARIF reporting, justified suppressions, and a reusable GitHub Action.
 - **[git-hotspots](https://github.com/kyan9400/git-hotspots)** — A dependency-free Go CLI that ranks files by change risk, compares runs against a baseline, and enforces absolute or change-based thresholds in CI.
 - **[OpenAPI Impact](https://github.com/kyan9400/openapi-impact)** — A Python CLI, library, and reusable GitHub Action that detects breaking OpenAPI changes across schemas, security, media types, headers, and parameter serialization.
-- **[Mini GPT Workbench](https://github.com/kyan9400/my-gpt)** — A readable character-level transformer with vectorized causal attention, deterministic training, restricted self-contained checkpoints, controlled sampling, and a browser workbench.
+- **[Mini GPT Workbench](https://github.com/kyan9400/my-gpt)** ([live demo](https://kyan9400.github.io/my-gpt/)) — A readable character-level transformer with vectorized causal attention, deterministic training, safe self-contained checkpoints, controlled sampling, and an interactive transformer explorer.
 - **[RepoVitals](https://github.com/kyan9400/repo-vitals)** ([live demo](https://kyan9400.github.io/repo-vitals/)) — A transparent GitHub portfolio audit with explainable scoring, pin recommendations, shareable URLs, and portable Markdown or JSON evidence reports.
 
 ## Current focus
