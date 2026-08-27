@@ -1,28 +1,24 @@
 # Alhassan Alfarran
 
-Full-stack and platform-focused developer based in Moscow. I build production-minded web applications, backend services, and developer infrastructure, with a growing focus on practical machine learning.
+Platform-minded full-stack engineer based in Moscow. I build reliable web products, backend services, and the delivery systems around them—from transactional APIs and observability to GitOps, SLOs, and safe releases.
 
-I work mainly with React, TypeScript, Node.js, Python, Go, PostgreSQL, Redis, Docker, Kubernetes, and Terraform. I speak Arabic, English, and Russian.
+**Core stack:** Go, Python, TypeScript, React, Node.js, PostgreSQL, Redis, Docker, Kubernetes, Terraform, Prometheus, and GitHub Actions. Languages: Arabic, English, and Russian.
 
-## Selected work
+## Flagship projects
 
-- **[Platform Blueprint](https://github.com/kyan9400/platform-blueprint)** — A reproducible GitOps reference platform with Flux reconciliation, metric-gated Flagger canaries, CEL admission controls, Prometheus SLOs, kind smoke tests, and an EKS Terraform path.
+- **[SLO Forge](https://github.com/kyan9400/slo-forge)** ([v1.0.0](https://github.com/kyan9400/slo-forge/releases/tag/v1.0.0)) — A Go CLI and HTTP API that compiles one SLO definition into Prometheus recording rules, multi-window burn-rate alerts, a Prometheus Operator resource, a Grafana dashboard, and a reviewable error-budget explanation. CI verifies race safety, generated drift, PromQL, the static non-root container, and high/critical vulnerabilities.
+- **[Platform Blueprint](https://github.com/kyan9400/platform-blueprint)** ([v1.0.0](https://github.com/kyan9400/platform-blueprint/releases/tag/v1.0.0)) — A reproducible GitOps reference platform with Flux reconciliation, metric-gated Flagger canaries, CEL admission controls, Prometheus SLOs, kind smoke tests, and an EKS Terraform path.
 - **[Stockroom Ledger](https://github.com/kyan9400/stockroom-ledger)** ([live demo](https://stockroom-ledger.vercel.app/)) — A full-stack inventory operations console with audited cycle counts, atomic location transfers, idempotent writes, optimistic concurrency, and a hardened container deployment.
-- **[ToggleBench](https://github.com/kyan9400/togglebench)** ([live demo](https://kyan9400.github.io/togglebench/)) — A deterministic feature-flag workbench with ordered targeting, stable percentage rollouts, explainable evaluation traces, and cohort exploration.
-- **[Access Verdict](https://github.com/kyan9400/access-verdict)** ([live demo](https://kyan9400.github.io/access-verdict/)) — An explainable authorization policy workbench with deny-first evaluation, wildcard resources, request-context conditions, decision traces, and executable scenarios.
-- **[Retry Lab](https://github.com/kyan9400/retry-lab)** ([live demo](https://kyan9400.github.io/retry-lab/)) — A deterministic distributed-systems simulator for comparing retry, backoff, and jitter strategies under a shared outage and constrained recovery capacity.
 - **[LeaseQueue](https://github.com/kyan9400/leasequeue)** ([live demo](https://leasequeue.vercel.app/)) — A durable background-job service with atomic leases, crash recovery, idempotent submission, bounded retries, dead-letter redrive, and Prometheus metrics.
-- **[Pulseboard](https://github.com/kyan9400/pulseboard)** ([live demo](https://pulseboard-five-tau.vercel.app/)) — A self-hosted uptime monitor with async checks, automatic incident recovery, SLO error-budget reporting, a public status page, Prometheus metrics, and a non-root container.
-- **[Webhook Workbench](https://github.com/kyan9400/webhook-workbench)** ([live demo](https://webhook-workbench.vercel.app/)) — A self-hosted webhook inspector with multi-channel capture, GitHub, Stripe, and generic HMAC verification, guarded replay, SSRF protections, and cross-platform releases.
-- **[Tampertrail](https://github.com/kyan9400/tampertrail)** — A dependency-free Go CLI that seals JSONL audit events into a SHA-256 chain, verifies tampering as a stream, and anchors exact history with external HMAC checkpoints.
-- **[File Finder MCP](https://github.com/kyan9400/file-finder-mcp)** — A bounded, ranked file-discovery server for MCP clients with a fixed workspace boundary, typed results, scan telemetry, a standalone CLI, and cross-platform tests.
-- **[Incident Canvas](https://github.com/kyan9400/incident-canvas)** ([live demo](https://kyan9400.github.io/incident-canvas/)) — A local-first incident postmortem workspace with a searchable archive, response metrics, timelines, owned follow-ups, versioned migration, and portable reports.
-- **[SchemaSentry](https://github.com/kyan9400/schema-sentry)** — A dependency-free SQL migration safety analyzer with PostgreSQL-aware rules, changed-migration pull-request scans, SARIF reporting, justified suppressions, and a reusable GitHub Action.
-- **[git-hotspots](https://github.com/kyan9400/git-hotspots)** — A dependency-free Go CLI that ranks files by change risk, compares runs against a baseline, and enforces absolute or change-based thresholds in CI.
-- **[OpenAPI Impact](https://github.com/kyan9400/openapi-impact)** — A Python CLI, library, and reusable GitHub Action that detects breaking OpenAPI changes across schemas, security, media types, headers, and parameter serialization.
-- **[Mini GPT Workbench](https://github.com/kyan9400/my-gpt)** ([live demo](https://kyan9400.github.io/my-gpt/)) — A readable character-level transformer with vectorized causal attention, deterministic training, safe self-contained checkpoints, controlled sampling, and an interactive transformer explorer.
-- **[RepoVitals](https://github.com/kyan9400/repo-vitals)** ([live demo](https://kyan9400.github.io/repo-vitals/)) — A transparent GitHub portfolio audit with explainable scoring, pin recommendations, shareable URLs, and portable Markdown or JSON evidence reports.
+- **[SchemaSentry](https://github.com/kyan9400/schema-sentry)** — A PostgreSQL migration safety analyzer with changed-migration pull-request scans, SARIF reporting, justified suppressions, and a reusable GitHub Action.
+- **[Mini GPT Workbench](https://github.com/kyan9400/my-gpt)** ([live demo](https://kyan9400.github.io/my-gpt/)) — A readable character-level transformer with vectorized causal attention, deterministic training, safe checkpoints, controlled sampling, and an interactive transformer explorer.
 
-## Current focus
+## More engineering work
 
-I am building production-ready applications and platform tooling, with an emphasis on transactional correctness, secure delivery, observable systems, reliable automation, and projects that are easy for other developers to run.
+- **Reliability and distributed systems:** [Pulseboard](https://github.com/kyan9400/pulseboard), [Retry Lab](https://github.com/kyan9400/retry-lab), [Incident Canvas](https://github.com/kyan9400/incident-canvas), and [Webhook Workbench](https://github.com/kyan9400/webhook-workbench).
+- **Policy and delivery tooling:** [Access Verdict](https://github.com/kyan9400/access-verdict), [ToggleBench](https://github.com/kyan9400/togglebench), and [OpenAPI Impact](https://github.com/kyan9400/openapi-impact).
+- **Developer tools:** [Tampertrail](https://github.com/kyan9400/tampertrail), [git-hotspots](https://github.com/kyan9400/git-hotspots), [File Finder MCP](https://github.com/kyan9400/file-finder-mcp), and [RepoVitals](https://github.com/kyan9400/repo-vitals).
+
+## Engineering focus
+
+I care about correctness under failure, secure delivery, useful observability, deterministic automation, and documentation that lets another engineer run and evaluate a project without guesswork.
