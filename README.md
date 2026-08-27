@@ -1,11 +1,12 @@
 # Alhassan Alfarran
 
-Full-stack developer based in Moscow. I build production-minded web applications, backend services, and developer tools, with a growing focus on practical machine learning.
+Full-stack and platform-focused developer based in Moscow. I build production-minded web applications, backend services, and developer infrastructure, with a growing focus on practical machine learning.
 
-I work mainly with React, TypeScript, Node.js, Python, Go, PostgreSQL, and Redis. I speak Arabic, English, and Russian.
+I work mainly with React, TypeScript, Node.js, Python, Go, PostgreSQL, Redis, Docker, Kubernetes, and Terraform. I speak Arabic, English, and Russian.
 
 ## Selected work
 
+- **[Platform Blueprint](https://github.com/kyan9400/platform-blueprint)** — A reproducible GitOps reference platform with Flux reconciliation, metric-gated Flagger canaries, CEL admission controls, Prometheus SLOs, kind smoke tests, and an EKS Terraform path.
 - **[Stockroom Ledger](https://github.com/kyan9400/stockroom-ledger)** ([live demo](https://stockroom-ledger.vercel.app/)) — A full-stack inventory operations console with audited cycle counts, atomic location transfers, idempotent writes, optimistic concurrency, and a hardened container deployment.
 - **[ToggleBench](https://github.com/kyan9400/togglebench)** ([live demo](https://kyan9400.github.io/togglebench/)) — A deterministic feature-flag workbench with ordered targeting, stable percentage rollouts, explainable evaluation traces, and cohort exploration.
 - **[Access Verdict](https://github.com/kyan9400/access-verdict)** ([live demo](https://kyan9400.github.io/access-verdict/)) — An explainable authorization policy workbench with deny-first evaluation, wildcard resources, request-context conditions, decision traces, and executable scenarios.
@@ -24,4 +25,4 @@ I work mainly with React, TypeScript, Node.js, Python, Go, PostgreSQL, and Redis
 
 ## Current focus
 
-I am building production-ready full-stack applications and developer infrastructure, with an emphasis on transactional correctness, clear interfaces, reliable automation, and projects that are easy for other developers to run.
+I am building production-ready applications and platform tooling, with an emphasis on transactional correctness, secure delivery, observable systems, reliable automation, and projects that are easy for other developers to run.
