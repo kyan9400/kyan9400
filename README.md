@@ -14,6 +14,7 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 - **[LeaseQueue](https://github.com/kyan9400/leasequeue)** ([live demo](https://leasequeue.vercel.app/)) — A durable background-job service with atomic leases, crash recovery, idempotent submission, bounded retries, dead-letter redrive, and Prometheus metrics.
 - **[SchemaSentry](https://github.com/kyan9400/schema-sentry)** — A PostgreSQL migration safety analyzer with changed-migration pull-request scans, SARIF reporting, justified suppressions, and a reusable GitHub Action.
 - **[Mini GPT Workbench](https://github.com/kyan9400/my-gpt)** ([live demo](https://kyan9400.github.io/my-gpt/)) — A readable character-level transformer with vectorized causal attention, deterministic training, safe checkpoints, controlled sampling, and an interactive transformer explorer.
+- **[Pathwise](https://github.com/kyan9400/pathwise-client)** ([live app](https://pathwise-client.vercel.app/)) — An explainable university-program discovery and comparison product with a polished Next.js interface, search and filtering flows, and a public production deployment.
 
 ## Where to start
 
