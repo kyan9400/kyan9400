@@ -6,7 +6,7 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 
 ## Flagship projects
 
-- **[Gatehouse](https://github.com/kyan9400/gatehouse)** ([live dashboard](https://gatehouse-nine.vercel.app/)) — A policy-first access operations control plane with tenant-scoped requests, role-aware approvals, idempotent writes, optimistic concurrency, a hash-linked audit trail, Prometheus metrics, a React review desk, Docker, Kubernetes, Terraform, and GHCR release automation.
+- **[Gatehouse](https://github.com/kyan9400/gatehouse)** ([live dashboard](https://gatehouse-nine.vercel.app/), [API docs](https://gatehouse-api.vercel.app/docs)) — A policy-first access operations control plane with tenant-scoped requests, role-aware approvals, idempotent writes, optimistic concurrency, a hash-linked audit trail, Prometheus metrics, a React review desk, Docker, Kubernetes, Terraform, and GHCR release automation.
 - **[DeployLedger](https://github.com/kyan9400/deployledger)** ([live dashboard](https://deployledger.vercel.app/)) — A self-hosted release-operations control plane with DORA metrics, idempotent deployment ingestion, signed GitHub webhooks, a hash-linked audit trail, Prometheus health signals, a React dashboard, Docker Compose, Kubernetes, Terraform, and release automation.
 - **[SLO Forge](https://github.com/kyan9400/slo-forge)** ([v1.0.0](https://github.com/kyan9400/slo-forge/releases/tag/v1.0.0)) — A Go CLI and HTTP API that compiles one SLO definition into Prometheus recording rules, multi-window burn-rate alerts, a Prometheus Operator resource, a Grafana dashboard, and a reviewable error-budget explanation. CI verifies race safety, generated drift, PromQL, the static non-root container, and high/critical vulnerabilities.
 - **[Platform Blueprint](https://github.com/kyan9400/platform-blueprint)** ([v1.0.0](https://github.com/kyan9400/platform-blueprint/releases/tag/v1.0.0)) — A reproducible GitOps reference platform with Flux reconciliation, metric-gated Flagger canaries, CEL admission controls, Prometheus SLOs, kind smoke tests, and an EKS Terraform path.
@@ -21,6 +21,7 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 | Product | Demo | What to inspect |
 | --- | --- | --- |
 | [Gatehouse](https://github.com/kyan9400/gatehouse) | [Open dashboard](https://gatehouse-nine.vercel.app/) | Tenant-scoped access requests, policy decisions, approvals, and audit evidence. |
+| Gatehouse API | [OpenAPI / Swagger](https://gatehouse-api.vercel.app/docs) | Live FastAPI service with health/readiness probes, OpenAPI, metrics, and auditable access workflows. |
 | [DeployLedger](https://github.com/kyan9400/deployledger) | [Open dashboard](https://deployledger.vercel.app/) | Release ingestion, DORA metrics, deployment history, and health signals. |
 | [Pathwise](https://github.com/kyan9400/pathwise-client) | [Open app](https://pathwise-client.vercel.app/) | Search, compare, and explain university-program choices in a polished product flow. |
 | [LeaseQueue](https://github.com/kyan9400/leasequeue) | [Open console](https://leasequeue.vercel.app/) | Queue operations, retry behavior, leases, and dead-letter recovery. |
