@@ -16,6 +16,18 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 - **[Mini GPT Workbench](https://github.com/kyan9400/my-gpt)** ([live demo](https://kyan9400.github.io/my-gpt/)) — A readable character-level transformer with vectorized causal attention, deterministic training, safe checkpoints, controlled sampling, and an interactive transformer explorer.
 - **[Pathwise](https://github.com/kyan9400/pathwise-client)** ([live app](https://pathwise-client.vercel.app/)) — An explainable university-program discovery and comparison product with a polished Next.js interface, search and filtering flows, and a public production deployment.
 
+## Live systems
+
+| Product | Demo | What to inspect |
+| --- | --- | --- |
+| [Gatehouse](https://github.com/kyan9400/gatehouse) | [Open dashboard](https://gatehouse-nine.vercel.app/) | Tenant-scoped access requests, policy decisions, approvals, and audit evidence. |
+| [DeployLedger](https://github.com/kyan9400/deployledger) | [Open dashboard](https://deployledger.vercel.app/) | Release ingestion, DORA metrics, deployment history, and health signals. |
+| [Pathwise](https://github.com/kyan9400/pathwise-client) | [Open app](https://pathwise-client.vercel.app/) | Search, compare, and explain university-program choices in a polished product flow. |
+| [LeaseQueue](https://github.com/kyan9400/leasequeue) | [Open console](https://leasequeue.vercel.app/) | Queue operations, retry behavior, leases, and dead-letter recovery. |
+| [Stockroom Ledger](https://github.com/kyan9400/stockroom-ledger) | [Open console](https://stockroom-ledger.vercel.app/) | Inventory transfers, cycle counts, idempotency, and optimistic concurrency. |
+| [Webhook Workbench](https://github.com/kyan9400/webhook-workbench) | [Open workbench](https://webhook-workbench.vercel.app/) | Signature verification, event capture, and guarded replay. |
+| [Pulseboard](https://github.com/kyan9400/pulseboard) | [Open status page](https://pulseboard-five-tau.vercel.app/) | Uptime checks, incidents, SLO budgets, and operational metrics. |
+
 ## Where to start
 
 | Hiring signal | Project | Evidence |
