@@ -6,6 +6,7 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 
 ## Flagship projects
 
+- **[DeployLedger](https://github.com/kyan9400/deployledger)** ([live dashboard](https://deployledger.vercel.app/)) — A self-hosted release-operations control plane with DORA metrics, idempotent deployment ingestion, signed GitHub webhooks, a hash-linked audit trail, Prometheus health signals, a React dashboard, Docker Compose, Kubernetes, Terraform, and release automation.
 - **[SLO Forge](https://github.com/kyan9400/slo-forge)** ([v1.0.0](https://github.com/kyan9400/slo-forge/releases/tag/v1.0.0)) — A Go CLI and HTTP API that compiles one SLO definition into Prometheus recording rules, multi-window burn-rate alerts, a Prometheus Operator resource, a Grafana dashboard, and a reviewable error-budget explanation. CI verifies race safety, generated drift, PromQL, the static non-root container, and high/critical vulnerabilities.
 - **[Platform Blueprint](https://github.com/kyan9400/platform-blueprint)** ([v1.0.0](https://github.com/kyan9400/platform-blueprint/releases/tag/v1.0.0)) — A reproducible GitOps reference platform with Flux reconciliation, metric-gated Flagger canaries, CEL admission controls, Prometheus SLOs, kind smoke tests, and an EKS Terraform path.
 - **[Stockroom Ledger](https://github.com/kyan9400/stockroom-ledger)** ([live demo](https://stockroom-ledger.vercel.app/)) — A full-stack inventory operations console with audited cycle counts, atomic location transfers, idempotent writes, optimistic concurrency, and a hardened container deployment.
@@ -22,3 +23,4 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 ## Engineering focus
 
 I care about correctness under failure, secure delivery, useful observability, deterministic automation, and documentation that lets another engineer run and evaluate a project without guesswork.
+
