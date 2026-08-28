@@ -15,6 +15,15 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 - **[SchemaSentry](https://github.com/kyan9400/schema-sentry)** — A PostgreSQL migration safety analyzer with changed-migration pull-request scans, SARIF reporting, justified suppressions, and a reusable GitHub Action.
 - **[Mini GPT Workbench](https://github.com/kyan9400/my-gpt)** ([live demo](https://kyan9400.github.io/my-gpt/)) — A readable character-level transformer with vectorized causal attention, deterministic training, safe checkpoints, controlled sampling, and an interactive transformer explorer.
 
+## Where to start
+
+| Hiring signal | Project | Evidence |
+| --- | --- | --- |
+| DevOps / platform engineering | [Platform Blueprint](https://github.com/kyan9400/platform-blueprint) | Flux GitOps, Flagger canaries, Kyverno policy, Prometheus SLOs, kind smoke tests, and Terraform for EKS. |
+| Backend engineering | [DeployLedger](https://github.com/kyan9400/deployledger) | FastAPI services, signed webhooks, idempotent ingestion, DORA metrics, audit history, and production deployment paths. |
+| Full-stack product engineering | [Gatehouse](https://github.com/kyan9400/gatehouse) | React review console, tenant-scoped API, optimistic concurrency, policy evaluation, audit evidence, and a live demo. |
+| Reliability / SRE | [SLO Forge](https://github.com/kyan9400/slo-forge) | SLO-as-code compilation into burn-rate alerts, dashboards, Prometheus resources, and reviewable error budgets. |
+
 ## More engineering work
 
 - **Reliability and distributed systems:** [Pulseboard](https://github.com/kyan9400/pulseboard), [Retry Lab](https://github.com/kyan9400/retry-lab), [Incident Canvas](https://github.com/kyan9400/incident-canvas), and [Webhook Workbench](https://github.com/kyan9400/webhook-workbench).
