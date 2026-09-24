@@ -28,6 +28,7 @@ Platform-minded full-stack engineer based in Moscow. I build reliable web produc
 | [Stockroom Ledger](https://github.com/kyan9400/stockroom-ledger) | [Open console](https://stockroom-ledger.vercel.app/) | Inventory transfers, cycle counts, idempotency, and optimistic concurrency. |
 | [Webhook Workbench](https://github.com/kyan9400/webhook-workbench) | [Open workbench](https://webhook-workbench.vercel.app/) | Signature verification, event capture, and guarded replay. |
 | [Pulseboard](https://github.com/kyan9400/pulseboard) | [Open status page](https://pulseboard-five-tau.vercel.app/) | Uptime checks, incidents, SLO budgets, and operational metrics. |
+| [Access Verdict](https://github.com/kyan9400/access-verdict) | [Open workbench](https://kyan9400.github.io/access-verdict/) | Allow/deny policy rules, request evaluation, per-check decision traces, and executable scenario suites. |
 
 ## Where to start
 
